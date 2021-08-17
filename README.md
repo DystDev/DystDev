@@ -1,7 +1,7 @@
 ### Helo visitor 👋
 
 - 🔭 I’m currently working on School Stuff 
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently learning Networking
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dystdev&theme=onedark&margin-w=15&margin-h=15&column=7" alt="dystdev"/> </p>
 
