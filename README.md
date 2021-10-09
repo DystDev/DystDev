@@ -3,12 +3,11 @@
 - 🔭 I’m currently working on School Stuff 
 - 🌱 I’m currently learning Full Stack
 
+https://www.codewars.com/users/DystDev/badges/large
+
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dystdev&theme=onedark&margin-w=15&margin-h=15&column=7" alt="dystdev"/> </p>
 
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=dystdev&count_private=true&include_all_commits=true&theme=onedark" alt="trophies" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dystdev&layout=compact&theme=onedark&langs_count=15" />
-</div>
+
 
 <br />
 
