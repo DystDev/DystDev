@@ -1,4 +1,4 @@
-### Helo visitor 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on School Stuff 
 - 🌱 I’m currently learning Full Stack
