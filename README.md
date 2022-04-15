@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on School Stuff 
+- 🔭 I’m currently working on Coloure Mobile
 - 🌱 I’m currently learning Full Stack
 
 
