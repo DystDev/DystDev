@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on StudyTab
-- 🌱 I’m currently learning Full Stack
+- 🔭 I’m currently working on Depths
 
 
 <p align="center"><img src="https://www.codewars.com/users/DystDev/badges/large" alt="dystdev"/> </p>
